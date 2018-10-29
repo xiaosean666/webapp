@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97ab5139-b0ed-46fa-b43b-8a09e34cbaa7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
-    </list>
+    <list default="true" id="97ab5139-b0ed-46fa-b43b-8a09e34cbaa7" name="Default" comment="" />
     <ignored path="webapp.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -228,12 +226,12 @@
       <option name="number" value="Default" />
       <updated>1540814754478</updated>
       <workItem from="1540814756045" duration="428000" />
-      <workItem from="1540815200854" duration="352000" />
+      <workItem from="1540815200854" duration="490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="780000" />
+    <option name="totallyTimeSpent" value="918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
